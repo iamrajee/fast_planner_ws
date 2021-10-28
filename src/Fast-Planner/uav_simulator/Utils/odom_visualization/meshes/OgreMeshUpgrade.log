@@ -1,0 +1,25 @@
+19:31:48: Creating resource group General
+19:31:48: Creating resource group OgreInternal
+19:31:48: Creating resource group OgreAutodetect
+19:31:48: Registering ResourceManager for type Material
+19:31:48: Registering ResourceManager for type Skeleton
+19:31:48: Registering ResourceManager for type Mesh
+19:31:48: Warning: conversion is an older format ([MeshSerializer_v1.41]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+19:31:48: MeshSerializer writing mesh data to stream orignal_downloaded_hummingbird_1.12.mesh...
+19:31:48: File header written.
+19:31:48: Writing mesh data...
+19:31:48: Writing submesh...
+19:31:48: Exporting submesh texture aliases...
+19:31:48: Submesh texture aliases exported.
+19:31:48: Submesh exported.
+19:31:48: Exporting bounds information....
+19:31:48: Bounds information exported.
+19:31:48: Exporting submesh name table...
+19:31:48: Submesh name table exported.
+19:31:48: Exporting edge lists...
+19:31:48: Edge lists exported
+19:31:48: Mesh data exported.
+19:31:48: MeshSerializer export successful.
+19:31:48: Unregistering ResourceManager for type Mesh
+19:31:48: Unregistering ResourceManager for type Skeleton
+19:31:48: Unregistering ResourceManager for type Material
