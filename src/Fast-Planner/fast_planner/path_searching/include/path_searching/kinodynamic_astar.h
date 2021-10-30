@@ -107,7 +107,7 @@ class KinodynamicAstar {
   vector<PathNodePtr> path_node_pool_;
   int use_node_num_, iter_num_;
   NodeHashTable expanded_nodes_;
-  std:: <PathNodePtr, std::vector<PathNodePtr>, NodeComparator>
+  std::priority_queue<PathNodePtr, std::vector<PathNodePtr>, NodeComparator>
       open_set_;
   std::vector<PathNodePtr> path_nodes_;
 
