@@ -6,3 +6,8 @@ fast_planner/path_searching/CMakeLists.txt
 fast_planner/bspline_opt/CMakeLists.txt
 fast_planner/traj_utils/CMakeLists.txt
 fast_planner/plan_manage/CMakeLists.txt
+
+sudo apt install libarmadillo-dev
+sudo apt install ros-melodic-nlopt
+or
+sudo apt install ros-noetic-nlopt
